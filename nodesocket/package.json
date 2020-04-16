@@ -1,0 +1,19 @@
+{
+  "name": "chat_io",
+  "version": "1.0.0",
+  "description": "None yet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "12.10.0"
+  },
+  "author": "Elton Vilanculo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^2.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
